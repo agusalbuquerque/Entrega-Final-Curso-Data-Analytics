@@ -1,5 +1,4 @@
-﻿/*
-EVALUACION FINAL CODERHOUSE - EJERCICIO 1
+﻿/* EVALUACION FINAL CODERHOUSE - EJERCICIO 1
 01. CARGA + LIMPIEZA DE DATOS
 Fuente: dataset_ventas_retail.xlsx (hojas Ventas/Clientes/Productos)
         y sus equivalentes clientes.csv, productos.csv, ventas.csv.
